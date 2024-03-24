@@ -1,12 +1,24 @@
 
-  body{
-    background-image:url(https://www.meme-arsenal.com/memes/560ebcf45e46258515dc8994045a62fe.jpg);
-    background-repeat: no-repeat;
-    background-size: 1599px 800px;
-    color:rgb(0, 0, 0);
-    text-align: center;
+  .odin{
+    width: 400px;
+    height: 200px;
+    
   }
-    h1 {
-        -webkit-text-stroke-color: #dbd8d8;
-        -webkit-text-stroke-width: 2px;
-        }
+  
+  .dva{
+    width: 400px;
+    height: 200px;
+  }
+  
+  .tri{
+    width: 400px;
+    height: 200px;
+  }
+  
+  .chotiri{
+    width: 400px;
+    height: 200px;
+  }
+  .p{
+    text-align:end;
+  }
