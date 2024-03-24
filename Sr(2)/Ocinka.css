@@ -1,0 +1,19 @@
+p{
+    background: linear-gradient(to right, blue, purple);
+}
+.clas{
+    border: 2px red;
+    background: linear-gradient(to right, blue, purple);
+    font-size: 45px;
+}
+h1{
+    color: rgb(74, 36, 109);
+    font-family:monospace;
+    font-size: 30px;
+}
+body{
+    color: white;
+}
+a{
+    text-decoration: none;
+}
